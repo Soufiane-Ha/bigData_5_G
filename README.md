@@ -1,5 +1,9 @@
 # bigData_5_G
 
+الهدف تحميل بيانات ضخمة و تحليلها و مقارنة بين Dask , Pandas et Chunksize
+
+قاعدة البيانات : ecommerce-behavior-data-from-multi-category-store  من موقع  kaggle
+
 Dask : 
 
 يستخدم المعالجة المتوازية ولا يحمل كل البيانات في الذاكرة مرة واحدة لتوفير استهلاك ذاكرة بل يقسمها الىpartitions  
